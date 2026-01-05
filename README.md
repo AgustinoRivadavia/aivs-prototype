@@ -15,6 +15,9 @@ It is NOT a government or official identification.
 ## Status
 Early prototype and concept proof.
 
+Also known as:
+- SIVS (Synthetic Identity Verification System)
+
 ## Author
 [Agustin Palaya]
 
