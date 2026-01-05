@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="160"
+     height="28"
+     viewBox="0 0 160 28"
+     role="img"
+     aria-label="AI Verified — SIVS">
+
+  <defs>
+    <style>
+      .bg { fill: #0f172a; }
+      .border { fill: none; stroke: #1e293b; stroke-width: 1; }
+      .text { fill: #e5e7eb; font-family: Arial, sans-serif; font-size: 12px; }
+      .check { fill: #22c55e; font-weight: bold; }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" rx="14" ry="14" width="159" height="27" class="bg"/>
+  <rect x="0.5" y="0.5" rx="14" ry="14" width="159" height="27" class="border"/>
+
+  <text x="12" y="18" class="check">✔</text>
+  <text x="26" y="18" class="text">AI Verified — AIVS</text>
+
+</svg>
